@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "876330913165",
+    "firebase_url": "https://rhythmmusic-f6eda.firebaseio.com",
+    "project_id": "rhythmmusic-f6eda",
+    "storage_bucket": "rhythmmusic-f6eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876330913165:android:ef76d15d96f37df9",
+        "android_client_info": {
+          "package_name": "com.example.dell.rhythmmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876330913165-m40mfider65vgp0fpjk80hidtcgqb58q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmdAe_kpjE9M0iQmZMYlTAR7_r1SWhU0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
